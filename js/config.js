@@ -129,6 +129,46 @@ const API_SITES = {
         api: 'https://yutuzy10.com',
         name: '玉兔资源',
         adult: true
+    },
+    ckzy1: {
+        api: 'https://www.ckzy1.com',
+        name: 'ck资源',
+        adult: true
+    },
+    jkunzy: {
+        api: 'https://jkunzyapi.com',
+        name: 'jk资源',
+        adult: true
+    },
+    bwzy: {
+        api: 'https://api.bwzym3u8.com',
+        name: '百万资源',
+        adult: true
+    },
+    souavzy: {
+        api: 'https://api.souavzy.vip',
+        name: '搜资源',
+        adult: true
+    },
+    siwazyw: {
+        api: 'https://siwazyw.tv',
+        name: '丝袜资源',
+        adult: true
+    },
+    api: {
+        api: 'https://155api.com',
+        name: '155api资源',
+        adult: true
+    },
+    hsckzy: {
+        api: 'https://hsckzy.vip',
+        name: 'https://hsckzy.vip',
+        adult: true
+    },
+    apilsbzy1: {
+        api: 'https://apilsbzy1.com',
+        name: 'apilsbzy1资源',
+        adult: true
     }
     // 您可以按需添加更多源
 };
